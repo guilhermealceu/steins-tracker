@@ -6,6 +6,8 @@ Free: https://github.com/guilhermealceu/steins-tracker/releases
 
 Buy (DLCs/Pro): https://pagbuypix.discloud.app/
 
+Home:<img width="2560" height="1389" alt="image" src="https://github.com/user-attachments/assets/5a6c2229-82ec-4ae2-abc7-4498797330c4" />
+
 ## Main features
 
 - Automatic game detection in the background
