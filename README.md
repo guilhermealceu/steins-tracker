@@ -173,4 +173,6 @@ Made with 💚 by [Guilherme Dill](https://github.com/guilhermealceu) · **RUNE 
 
 [RuneHub](https://runehub.runeprojects.com.br/) · [Downloads](https://github.com/guilhermealceu/steins-tracker/releases) · [License](LICENSE)
 
+<sub>© 2025–2026 Guilherme Dill / RUNE PROJECTS. All rights reserved. Free to use, not open source — see the [License](LICENSE).</sub>
+
 </div>

@@ -1,21 +1,81 @@
-MIT License
+Steins;Tracker - All Rights Reserved
 
-Copyright (c) 2025 Guilherme Dill
+Copyright (c) 2025 Guilherme Dill. All rights reserved.
+Copyright (c) 2026 RUNE (runeprojects.com.br). All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Steins;Tracker is free to download and use, but it is NOT open source.
+You may not copy, modify, redistribute, sell or publish the software, its
+installers, images or any other material in this repository without prior
+written permission. Use of the software is governed by the End User License
+Agreement (EULA) below, which is also shown by the installer.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+================================================================================
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+LICENCA DE USO (EULA) - Steins;Tracker
+Versao 1.3 - Atualizada em 16/11/2026
+
+(c) 2025 Guilherme Dill. Todos os direitos reservados.
+(c) 2026 RUNE. (runeprojects.com.br) Todos os direitos reservados.
+
+1) ACEITE
+Ao instalar, copiar, acessar ou usar o Steins;Tracker (Software), voce concorda integralmente com esta Licenca de Uso (EULA). Se voce nao concordar, nao instale nem utilize o Software.
+
+2) CONCESSAO DE LICENCA
+2.1. Licenca. E concedida ao usuario final (Voce) uma licenca limitada, nao exclusiva, intransferivel e revogavel para instalar e usar o Software em um (1) computador por licenca, para fins pessoais ou profissionais internos. Ao trocar de computador, deixe de usar a licenca no anterior antes de usa-la no novo dispositivo. O uso simultaneo da mesma conta ou licenca em computadores diferentes pode causar conflitos de sincronizacao.
+2.2. Uso gratuito. O modo gratuito permite acesso a pagina gratuita e as funcoes de monitoramento e registro de jogos disponiveis nesse modo. Algumas funcionalidades, conteudos ou servicos podem exigir licenca paga, conforme informado no Software ou no RuneHub.
+2.3. Tokens/Ativacoes. Chaves, tokens, DLCs e/ou credenciais de ativacao sao pessoais e intransferiveis. O Licenciante pode revogar ativacoes em caso de abuso, fraude, violacao desta EULA ou uso que comprometa terceiros/servicos.
+
+3) RESTRICOES
+Voce NAO pode, sem autorizacao previa e por escrito do Licenciante:
+a) Distribuir, sublicenciar, vender, alugar, ceder, emprestar, tornar publico ou disponibilizar o Software a terceiros;
+b) Modificar, traduzir, adaptar, descompilar, fazer engenharia reversa ou criar obras derivadas do Software, exceto quando permitido por lei;
+c) Contornar mecanismos tecnicos de protecao, limites de uso, verificacao de licenca ou quaisquer medidas antifraude;
+d) Utilizar o Software para fins ilicitos, para violar direitos de terceiros ou para coletar dados sem base legal.
+
+4) PROPRIEDADE INTELECTUAL
+O Software e licenciado, nao vendido. Todos os direitos, titulos e interesses, incluindo codigo-fonte, interface, design, marcas, nomes e materiais associados pertencem ao Licenciante ou a seus licenciantes.
+
+5) COMPONENTES E CONTEUDOS DE TERCEIROS
+5.1. APIs e servicos. Dependendo das funcoes utilizadas, o Software pode se conectar ao RuneHub para autenticacao, licencas, perfil e sincronizacao; ao Google para autenticacao; ao GitHub para consultar e obter atualizacoes; e ao SteamGridDB para buscar imagens de jogos. Essas interacoes podem envolver identificadores, dados de conta ou nomes de jogos necessarios a cada funcionalidade.
+5.2. Direitos de Terceiros. Capas, marcas, icones e nomes de jogos pertencem a seus respectivos titulares. O uso pelo Software visa conveniencia do usuario e nao confere qualquer direito adicional de propriedade intelectual.
+
+6) DADOS, PRIVACIDADE E LGPD
+6.1. Funcionamento local. O Software pode processar no computador informacoes como jogos selecionados, nomes de executaveis, historico e duracao de sessoes, nomes personalizados e preferencias. Funcoes de monitoramento podem acessar informacoes tecnicas do sistema.
+6.2. Conta e sincronizacao. Ao conectar sua conta RuneHub e usar os recursos correspondentes, dados de conta, licenca, perfil e estatisticas podem ser enviados ao RuneHub. A sincronizacao em nuvem tambem pode armazenar dados de historico, jogos selecionados e nomes personalizados para recuperacao, inclusive quando voce trocar de computador, observada a regra de uso em um computador por licenca. O uso simultaneo em computadores diferentes pode gerar conflitos que precisem ser resolvidos. A disponibilidade depende de conexao, autorizacao e funcionamento dos servicos.
+6.3. Acesso e servicos de terceiros. A autenticacao pode envolver o RuneHub e o provedor de identidade utilizado. O tratamento por esses servicos e por outros provedores segue tambem as respectivas informacoes e politicas aplicaveis. A politica do RuneHub esta disponivel em https://runehub.runeprojects.com.br/privacy.
+6.4. Direitos e solicitacoes. Para solicitar informacoes sobre retencao, acesso ou exclusao de dados pessoais, ou exercer outros direitos previstos na legislacao aplicavel, entre em contato pelo e-mail guilligamer@gmail.com. As solicitacoes serao avaliadas conforme a legislacao aplicavel. Desconectar a conta nao significa, por si so, excluir automaticamente dados ja armazenados na nuvem.
+6.5. Seguranca e disponibilidade. Sao adotadas medidas de seguranca para as funcionalidades oferecidas, mas nenhum sistema garante disponibilidade continua ou seguranca absoluta.
+
+7) CONEXOES EXTERNAS
+O Software pode se conectar a servicos externos para autenticacao, verificacao de licenca, sincronizacao, consulta de metadados e imagens de jogos e verificacao ou obtencao de atualizacoes, conforme as funcionalidades utilizadas. Algumas funcoes podem ficar indisponiveis sem conexao.
+
+8) ATUALIZACOES E ALTERACOES
+8.1. Atualizacoes. O Licenciante pode fornecer atualizacoes, correcoes e melhorias, que podem alterar funcionalidades. Atualizacoes podem ser automaticas ou sob confirmacao, conforme configuracao do usuario.
+8.2. Alteracoes da EULA. Esta EULA pode ser atualizada. Alteracoes serao informadas pelos canais disponiveis e aplicadas conforme a legislacao vigente, respeitados os direitos do usuario.
+
+9) SUPORTE
+Duvidas e atendimento sao realizados pelo chat disponivel em https://runeprojects.com.br, sem garantia de tempo de resposta ou de solucao.
+
+10) GARANTIAS - ISENCAO
+O SOFTWARE E FORNECIDO "NO ESTADO EM QUE SE ENCONTRA" ("AS IS"), SEM GARANTIAS DE QUALQUER TIPO, EXPRESSAS OU IMPLICITAS, INCLUINDO, ENTRE OUTRAS, COMERCIABILIDADE, ADEQUACAO A UM FIM ESPECIFICO, TITULO E NAO VIOLACAO. O USO E POR SUA CONTA E RISCO, OBSERVADOS OS DIREITOS E GARANTIAS PREVISTOS EM LEI.
+
+11) LIMITACAO DE RESPONSABILIDADE
+NA MAXIMA EXTENSAO PERMITIDA PELA LEI, O LICENCIANTE NAO SERA RESPONSAVEL POR DANOS INDIRETOS, INCIDENTAIS, ESPECIAIS, PUNITIVOS, LUCROS CESSANTES, PERDA DE DADOS OU INTERRUPCAO DE NEGOCIOS, DECORRENTES DO USO OU IMPOSSIBILIDADE DE USO DO SOFTWARE OU DE SERVICOS DE TERCEIROS INTEGRADOS, MESMO SE AVISADO DA POSSIBILIDADE DE TAIS DANOS. ESSAS DISPOSICOES SE APLICAM SOMENTE NA MEDIDA PERMITIDA PELA LEI E NAO AFASTAM DIREITOS OU RESPONSABILIDADES QUE NAO POSSAM SER EXCLUIDOS.
+
+12) INDENIZACAO
+Voce concorda em indenizar e isentar o Licenciante de quaisquer reclamacoes, perdas, responsabilidades, custos e despesas decorrentes do uso indevido do Software, violacao desta EULA ou infracao a direitos de terceiros.
+
+13) RESCISAO
+Esta EULA vigera ate ser rescindida. Sera automaticamente rescindida caso voce descumpra qualquer clausula. Com a rescissao, voce deve cessar o uso e desinstalar o Software, removendo chaves/tokens associados.
+
+14) LEI APLICAVEL E FORO
+Esta EULA e regida pelas leis da Republica Federativa do Brasil. Aplica-se o foro competente conforme a legislacao brasileira, preservado o direito do consumidor de propor a acao no foro de seu domicilio quando aplicavel.
+
+15) DISPOSICOES GERAIS
+Se qualquer disposicao for considerada invalida, as demais permanecerao validas. A nao exigencia do cumprimento de uma clausula nao constitui renuncia de direito. Esta EULA constitui o acordo integral entre as partes sobre o Software.
+
+CONTATO
+Duvidas e atendimento: chat em https://runeprojects.com.br
+Solicitacoes sobre dados pessoais: guilligamer@gmail.com
+
+Ao clicar em "Aceitar" ou instalar o Software, voce declara ter lido, compreendido e concordado com esta EULA.
